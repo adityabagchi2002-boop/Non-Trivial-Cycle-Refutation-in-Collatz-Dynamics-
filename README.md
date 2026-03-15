@@ -31,4 +31,4 @@ To audit this proof on your local machine:
 2. Clone this repository:
    ```bash
    git clone [https://github.com/adityabagchi2002-boop/collatz-cycle-refutation.git](https://github.com/adityabagchi2002-boop/collatz-cycle-refutation.git)
-
+N.B: The code compiles in live lean-lang.org. 
